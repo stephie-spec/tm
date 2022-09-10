@@ -1,0 +1,19 @@
+.image-details {
+    width: 1260px;
+}
+
+.details {
+    display: flex;
+}
+
+.details img {
+    width: 50%;
+}
+
+.art {
+    width: 50%;
+}
+
+.article {
+    width: 50%;
+}
